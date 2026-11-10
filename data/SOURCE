@@ -1,0 +1,8 @@
+Exported by the runner repository (Jetson AGX Orin, board 1): analysis/catalog.py at commit c2a429b
+(branch catalog, on main 00793f5), from the data of 2026-11-10 (bench/, profiles/ under /mnt/nvme/f.scarfato).
+Regenerate: python3 analysis/catalog.py <outdir>, then copy the four files here and update the sums below.
+
+b05bc39d9b5ad528f1d620955938bfd9cc4de5175b6e7bcf90de49861cfcc9c4  catalog-constants.csv
+4d2f55ce5439d8cec43d0c9bf0a058f776a79d1b89b013a560ed267aad6ac4d0  catalog-measured.csv
+ca62c90b4c7a4e48cad9c706a6d1e287e3dd4dbdce7e9359f4ba250e8332aab9  catalog-networks.csv
+c8ba2d067cafcf7d308d3923d321d6ea06b1e9c81a9786816819b2998423cfc1  catalog-pairs88.csv
